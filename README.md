@@ -1,7 +1,7 @@
 [![Header](https://github.com/Guo-Haowei/Guo-Haowei/blob/master/banner.png)](https://guo-haowei.github.io/)
 Hi there, my name is Haowei Guo. :smile:
 
-I am working for Activision in Shanghai. :house:
+I work for Activision in Shanghai. :house:
 
 I worked for Autodesk and Electronic Arts. :earth_asia:
 
